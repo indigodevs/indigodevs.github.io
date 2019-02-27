@@ -10,7 +10,7 @@
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>TLight-weight easy to use package manager for iOS.</shortDescription>
+	<shortDescription>Light-weight easy to use package manager for iOS.</shortDescription>
 	<descriptionlist>
 		<description>Keep in mind this is in beta and is being constanly updated!!!</description>
 	</descriptionlist>
@@ -25,9 +25,8 @@
 		</screenshot>		
 	</screenshots>
 	<changelog>
-		<change>Second release</change>
-		<change>It has feature 1</change>
-		<change>It has feature 2</change>
+		<change>Initial release</change>
+		<change>Public testing for feedback.</change>
 	</changelog>
 	<links>
 		<link>
