@@ -1,0 +1,15 @@
+Package: com.indigo.installer
+Version: 1.0.0b1
+Architecture: iphoneos-arm
+Maintainer: Kyle Mendell
+Depends: firmware (>7.0), mobilesubstrate
+Filename: ./debs/com.indigo.installer.deb
+Size: 2216
+MD5sum: 4d82d8a22af3d3a86dc5199d1b7d55ec
+SHA1: f6b07fa46e7ab5353919c6cb5a5bf7bfb8584c69
+SHA256: 9311f6a5f401d5435f8ab51b0a1a5830ec9e7edf471fa73a61ba5ab84cbfa9e9
+Section: Packaging
+Description: Light-weight package manger for iOS.
+Author: Indigo Devs
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.indigo.installer
+Name: Indigo Installer
