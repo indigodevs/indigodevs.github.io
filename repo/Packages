@@ -3,10 +3,10 @@ Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: Kyle Mendell
 Filename: ./debs/com.kmtech.onetouchassist.deb
-Size: 49022600
-MD5sum: 0846ee010a68785c53d77d73d48d63fd
-SHA1: 91363a534e1853e74826d9d8d32766f910cc9287
-SHA256: f616cea1ababb2a4ad9103f9443a129ccc800203d2339da1ea2cbdc6677e5465
+Size: 49015936
+MD5sum: 3c91dc312353c98925013882e7e3d4a8
+SHA1: 4ebbcd607a44a89e8eebd43d8439f8d4d167a48c
+SHA256: 3cda56eaa12838d094e7cbe61a5c92a9d69525f66356d52710f8af1175fee13f
 Section: Utilities
 Description: one app for all your needs. (This was a client project also can be found on the App Store)
 Author: Kyle Mendell
