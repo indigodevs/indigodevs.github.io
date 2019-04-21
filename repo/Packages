@@ -1,0 +1,31 @@
+Package: com.indigo.installer
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Kyle Mendell
+Depends: firmware (>7.0), mobilesubstrate
+Filename: ./debs/com.indigo.installer.deb
+Size: 4560
+MD5sum: a41249a1dcf9f91e52aa77b4f8397946
+SHA1: 92d27751e591af883eea4cc353298b45a099a335
+SHA256: 781dd011c0c9a5dbe639f5bcbe7a197a19f5cd46fd75b857390e152c7e7a1cd9
+Section: Packaging
+Description: Light-weight package manger for iOS.
+Author: Indigo Devs
+Depiction: https://indigodevs.github.io/repo/depictions/?p=com.indigo.installer
+Name: Indigo Installer
+
+Package: com.kmtech.onetouchassist
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: Kyle Mendell
+Filename: ./debs/1TouchAssist.deb
+Size: 49021860
+MD5sum: a037e0f4085968e6e7f9677b16faa2bb
+SHA1: 3c5ee81710a3ff72c6e68de5b7852396fda91da8
+SHA256: 89d00a758920c873d222d3a4363cc0ef4bf9528289ad81a7b31a704faf17757c
+Section: Utilities
+Description: one app for all your needs. (This was a client project also can be found on the App Store)
+Author: Kyle Mendell
+Name: 1TouchAssist
+Sponsor: Jared Walther
+
