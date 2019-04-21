@@ -1,8 +1,8 @@
-Origin: Indigo Dev Repo
-Label: Indigo Dev Repo
+Origin: KMTechnologies
+Label: KMTechnologies
+Codename: ios
 Suite: stable
 Version: 1.0
-Codename: ios
-Architectures: iphoneos-arm
+Architecture: iphoneos-arm
 Components: main
-Description: Indigo Dev Official Repo
+(B[m Description: official kmtech repo
