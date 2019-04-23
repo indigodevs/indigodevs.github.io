@@ -1,14 +1,14 @@
 Package: com.kjb
-Version: 0.0.1-1+debug
+Version: 0.0.1-2+debug
 Architecture: iphoneos-arm
 Maintainer: kjb
 Installed-Size: 104
 Depends: mobilesubstrate
-Filename: ./debs/com.kjb_0.0.1-1+debug_iphoneos-arm.deb
-Size: 3528
-MD5sum: 4baaf4eac591a8f62cdbaa264c745a08
-SHA1: 2d47b2ee4d575a28a93736cf6c26b923dc2b0601
-SHA256: 10bbea0aa316f860b863e002556e3e746c7940b26c1871fd6e4a536a5dfd06b3
+Filename: ./debs/powerchoice2.deb
+Size: 3518
+MD5sum: 71abc3289354e48f841ea5ccce5d4312
+SHA1: e21d6666fa49afb5507e691b756e16015a195182
+SHA256: 7459ef8951761484052ba0291c98c34c53eb5b3ca35403842d00e6ba956da0bd
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: kjb
