@@ -1,14 +1,14 @@
 Package: com.kjb.taptapoptions
-Version: 0.0.1-3+debug
+Version: 0.0.1-4+debug
 Architecture: iphoneos-arm
 Maintainer: kjb
 Installed-Size: 104
 Depends: mobilesubstrate
-Filename: ./debs/com.kjb.taptapoptions_0.0.1-3+debug_iphoneos-arm.deb
-Size: 5224
-MD5sum: 41332a70bd4583fca3e75fd7bf8ad3d3
-SHA1: 8ba9a8ac78636b3caad14b58f0fef134e88fe097
-SHA256: 56ec08899ff6613e07abd2f904603a4649a7af6f9a1077e1f15c6e339c24e27c
+Filename: ./debs/com.kjb.taptapoptions_0.0.1-4+debug_iphoneos-arm.deb
+Size: 6072
+MD5sum: c4ca0f34586e0eef66573922c75a8b89
+SHA1: 49cd569d5ee5dd3294da538b10d5ff6d3ffbb6dd
+SHA256: 8cbe2a7095fcd350eb0d606a5c79ff6859ab7afb09100462fc1451214561a7aa
 Section: Tweaks
 Description: Power Options made easy!
 Author: kjb
