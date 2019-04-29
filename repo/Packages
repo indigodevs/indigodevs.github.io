@@ -1,3 +1,19 @@
+Package: com.kjb.popup
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: KM Tech
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.kjb.popup_0.0.1-1+debug_iphoneos-arm.deb
+Size: 3632
+MD5sum: 4127abe0f91dbab964cfd5b2bf1f417f
+SHA1: 3fdb1f1337ef5931b41ff25d0011ae7d6c957916
+SHA256: be861b3202f1a1ce863c1a4b15c58cd79f8218e20018dc262d6123542185c2ca
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: KM Tech
+Name: PopupOnStart
+
 Package: com.kjb.taptapoptions
 Version: 0.0.1-9+debug
 Architecture: iphoneos-arm
