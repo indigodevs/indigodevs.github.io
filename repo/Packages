@@ -1,31 +1,16 @@
 Package: com.kjb.taptapoptions
-Version: 0.0.1-7+debug
+Version: 0.0.1-9+debug
 Architecture: iphoneos-arm
 Maintainer: kjb
-Installed-Size: 104
+Installed-Size: 120
 Depends: mobilesubstrate
-Filename: ./debs/com.kjb.taptapoptions_0.0.1-7+debug_iphoneos-arm.deb
-Size: 5958
-MD5sum: 7563994e3e3970d6253d968161e477a2
-SHA1: 32859d17830cc4d1172fc9cd586e6ebb50708baf
-SHA256: 3c55ad3d8193f3c28ee70d1fb5c9eee7d57144ccd75f640ccc3ee9d27e1ec079
+Filename: ./debs/com.kjb.taptapoptions_0.0.1-9+debug_iphoneos-arm.deb
+Size: 11048
+MD5sum: a18b602e1663f67df12e3f7dc482de85
+SHA1: 20802074b4de97eaf4d1ac6922890baf3f6f3fa8
+SHA256: a72b5106d32869403b443046dedc50d1453f861e8a2bbac88c97dba9a04a6182
 Section: Tweaks
 Description: Power Options made easy!
 Author: kjb
 Name: TapTapOptions
-
-Package: com.kmtech.onetouchassist
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: Kyle Mendell
-Filename: ./debs/com.kmtech.onetouchassist.deb
-Size: 49015936
-MD5sum: 3c91dc312353c98925013882e7e3d4a8
-SHA1: 4ebbcd607a44a89e8eebd43d8439f8d4d167a48c
-SHA256: 3cda56eaa12838d094e7cbe61a5c92a9d69525f66356d52710f8af1175fee13f
-Section: Utilities
-Description: one app for all your needs. (This was a client project also can be found on the App Store)
-Author: Kyle Mendell
-Name: 1TouchAssist
-Sponsor: Jared Walther
 
